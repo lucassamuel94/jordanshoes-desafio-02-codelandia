@@ -24,6 +24,7 @@ export default {
     },
     colors: {
       brand: '#7CA2F4',
+      'brand-background': '#F3F7FF',
       dark: {
         10: '#121214',
         20: '#F3F7FF',
